@@ -15,7 +15,7 @@ class TestNumbers(unittest.TestCase):
         """
         this test asserts the sum of the tested values equates to 3
         """
-        self.assertEqual(sumOfNumbers(1,2), 3)
+        self.assertEqual(sumOfNumbers(1,2), 2)
 
 
 
